@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/AbhiGodara/SQL/tree/master/0550-game-play-analysis-iv) |
 | [0620-not-boring-movies](https://github.com/AbhiGodara/SQL/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/AbhiGodara/SQL/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/AbhiGodara/SQL/tree/master/1174-immediate-food-delivery-ii) |
