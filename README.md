@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AbhiGodara/SQL/tree/master/0238-product-of-array-except-self) |
 | [0658-find-k-closest-elements](https://github.com/AbhiGodara/SQL/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/AbhiGodara/SQL/tree/master/0658-find-k-closest-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AbhiGodara/SQL/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
